@@ -6,14 +6,14 @@
 - 📚 I have writen and published a academic article in portuguese name "Análise de Sentimento em Tweets Relacionados ao Desmatamento da Floresta Amazônica",
 -  published in BrasNAM SBC. For this research I used Python for data engineer and R for data analysis and sentiment classification and clustering. 
  
-- I'm also a former QA automation engineer with 4 years of experience in automation. 
+- 👨‍💻 I'm also a former QA automation engineer with 4 years of experience in automation. 
  
-- I like to involve myself with open source and community projects, sharing knowledge and experiences.
-- I usually upload automation projects and bots, to help with day-to-day activities as well as entertainment within my GitHub. 
+- 👨‍💻 I like to involve myself with open source and community projects, sharing knowledge and experiences.
+- 👨‍💻 I usually upload automation projects and bots, to help with day-to-day activities as well as entertainment within my GitHub. 
 
 - 💬 Ask me about software automation and data engineering. 
 - 💞️ I love to work in challenges involving data analysis and data processing.
-- 
+
 - 🌱 I’m currently learning Spark and hadoop applied to big data live streaming.
 - 💞️ I’m looking to collaborate on AI projects.
 
