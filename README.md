@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Vinicius Paes but you can call me Torack as all my friends do. 
-- 🔭 I’m a data scientist, my current work involves statistical analysis and developing A.I algorithms to propose solutions and plans of action. 
+- 🔭 I’m a data engenieer and automation engenieer, my current work involves statistical analysis and developing A.I algorithms to propose solutions and plans of action. 
 - 🐍 I support Python and love using it with pandas and NumPy as well as SQL.  
  
 - 📚 I'm a university graduate and there I conducted research in NPL and Language processing algorithms. 
 - 📰 I have writen and published a academic article in portuguese name "Análise de Sentimento em Tweets Relacionados ao Desmatamento da Floresta Amazônica",
 -  published in BrasNAM SBC. For this research I used Python for data engineer and R for data analysis and sentiment classification and clustering. 
  
-- 👨‍💻 I'm also a former QA automation engineer with 4 years of experience in automation. 
+- 👨‍💻 I'm also a former QA automation engineer with 5 years of experience in automation. 
  
 - 👨‍💻 I like to involve myself with open source and community projects, sharing knowledge and experiences.
 - 👨‍💻 I usually upload automation projects and bots, to help with day-to-day activities as well as entertainment within my GitHub. 
